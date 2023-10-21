@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/target" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java" />
+      <root url="file://$PROJECT_DIR$/target/generated-sources/protobuf/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/target" recursive="false" />
+  </library>
+</component>
